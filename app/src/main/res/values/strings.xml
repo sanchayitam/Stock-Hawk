@@ -1,0 +1,41 @@
+<resources>
+  <string name="app_name">Stock Hawk</string>
+
+  <string name="action_example" translatable="true">Example action</string>
+
+  <string name="action_settings" translatable="true">Settings</string>
+  <string name="action_change_units" translatable="true">Change Units</string>
+  <string name="symbol_search" translatable="true">Symbol Search</string>
+  <string name="content_test" translatable="true">Search for a Stock Symbol</string>
+  <string name="input_hint" translatable="true">FB</string>
+  <string name="input_prefill" translatable="true"></string>
+  <string name="widget_title" translatable="true">Today\'s Market</string>
+  <string name="network_toast" translatable="true">Uh-oh! This app requires an internet connection</string>
+  <string name="cent_percent" translatable="true">100%</string>
+  <string name="bid_price" translatable="true">1000.00</string>
+  <string name="stock_symbol" translatable="true">GOOG</string>
+  <string name="str_symbol" translatable="true">symbol</string>
+  <string name="add" translatable="true">add</string>
+  <string name="init" translatable="true">init</string>
+  <string name="periodic" translatable="true">periodic</string>
+  <string name="tag" translatable="true">tag</string>
+  <string name="saved_stock" translatable="true">"This stock is already saved!"</string>
+
+
+  <!-- Content Description for Floating button -->
+  <string name="content_desc_add_stock" translatable="true">"Please enter the stock "</string>
+
+  <!-- Empty Stock Database -->
+  <string name="empty_stock_list" translatable="true">No Stock Information Available</string>
+  <string name="empty_stock_list_no_network" translatable="true">The Stock Information is out of date. Please check the Network Connectivity.</string>
+
+  <string name="title_activity_stock_detail" translatable="true">Bid Price Chart</string>
+  <string name="invalid_symbol" translatable="true">Invalid Input</string>
+
+  <!--- Widget -->
+  <string name="appwidget_text" translatable="true">EXAMPLE</string>
+  <string name="configure" translatable="true">Configure</string>
+  <string name="add_widget" translatable="true" >Add widget</string>
+  <string name="set_background_resource" translatable="false">setBackgroundResource</string>
+
+</resources>
